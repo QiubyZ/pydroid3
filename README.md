@@ -32,3 +32,5 @@ do the same thing as steps 1 and 4 in the libxml2 point above, to install libxsl
    ```sh
    cp out/* /data/data/ru.iiec.pydroid3/files/arm-linux-androideabi
    ```
+
+Video Doc: https://youtu.be/3_CAb_vPTJQ
